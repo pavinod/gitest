@@ -22,8 +22,8 @@ class Calculator:
     
     def  __init__(self):
         return None
-    def addition (self,x1,x2):
-        return ad.add(x1,x2)
+    def divison (self,x1,x2):
+        return dv.div(x1,x2)
 
             
         
